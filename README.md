@@ -1,1 +1,1 @@
-# This repository stores all my code for ASE-230-001
+# This branch contains the code for Assignment 1
