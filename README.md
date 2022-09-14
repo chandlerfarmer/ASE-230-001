@@ -1,2 +1,2 @@
-# This repository stores all my code for ASE-230-001
-# Assignments are stored in different branches. 
+# This branch stores assignment #2. 
+# Assignments are stored in different branches.
