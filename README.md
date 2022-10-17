@@ -1,2 +1,2 @@
-# This branch stores assignment #2. 
+# This branch stores GREAT QUOTES
 # Assignments are stored in different branches.
