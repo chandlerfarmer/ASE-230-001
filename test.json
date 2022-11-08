@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Deandre Ayton",
+        "position": "Center"
+    },
+    {
+        "name": "Lebron James",
+        "position": "Small-Forward"
+    },
+    {
+        "name": "Kyrie Irving",
+        "position": "Point-Guard"
+    },
+    {
+        "name":"Russell Westbrook",
+        "position": "Point-Guard"
+    },
+    {
+        "name": "Kevin Durant",
+        "position": "Small-Forward"
+    }
+]
