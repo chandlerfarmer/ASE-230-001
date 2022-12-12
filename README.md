@@ -1,2 +1,2 @@
-# This branch stores assignment #2. 
-# Assignments are stored in different branches.
+# This branch stores the FINAL PROEJCT.
+# I worked with James Palovich & Kaleb Alstott. 
